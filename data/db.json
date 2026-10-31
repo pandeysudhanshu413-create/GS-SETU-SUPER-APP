@@ -1,0 +1,357 @@
+{
+  "products": [
+    {
+      "id": "prod-maggi-masala",
+      "name": "Masala Maggi",
+      "description": "Hot and tasty masala Maggi, freshly prepared with Indian spices.",
+      "price": 35,
+      "originalPrice": 45,
+      "category": "Maggi & Noodles",
+      "image": "/images/masala_maggi.jpg",
+      "isAvailable": true,
+      "isVeg": true,
+      "preparationTimeMinutes": 10,
+      "sellerName": "Asha Devi Rasoi",
+      "sellerLocation": "Rohania Market, Varanasi",
+      "rating": 4.8,
+      "reviewCount": 142,
+      "tags": [
+        "Best Seller",
+        "Desi Spices",
+        "Quick Bite"
+      ]
+    },
+    {
+      "id": "prod-maggi-cheese",
+      "name": "Cheese Maggi",
+      "description": "Double melted mozzarella and processed cheese loaded on piping hot spicy masala Maggi with oregano herbs.",
+      "price": 60,
+      "originalPrice": 75,
+      "category": "Maggi & Noodles",
+      "image": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=600&q=80",
+      "isAvailable": true,
+      "isVeg": true,
+      "preparationTimeMinutes": 12,
+      "sellerName": "Kashi Fast Food & Cafe",
+      "sellerLocation": "Station Road, Phulpur",
+      "rating": 4.9,
+      "reviewCount": 98,
+      "tags": [
+        "Super Cheesy",
+        "Kids Favorite"
+      ]
+    },
+    {
+      "id": "prod-pasta-red-sauce",
+      "name": "Red Sauce Pasta",
+      "description": "Italian penne tossed in rich sun-ripened tomato basil sauce, garlic, bell peppers, sweet corn, and Indian herbs.",
+      "price": 60,
+      "originalPrice": 70,
+      "category": "Pasta & Italian",
+      "image": "https://images.unsplash.com/photo-1621996346565-e3d5d6281724?auto=format&fit=crop&w=600&q=80",
+      "isAvailable": true,
+      "isVeg": true,
+      "preparationTimeMinutes": 15,
+      "sellerName": "Shri Ram Local Delights",
+      "sellerLocation": "Sahjanwa Bazaar, Gorakhpur",
+      "rating": 4.7,
+      "reviewCount": 86,
+      "tags": [
+        "Tangy",
+        "Fresh Veggies"
+      ]
+    },
+    {
+      "id": "prod-pasta-white-sauce",
+      "name": "White Sauce Pasta",
+      "description": "Creamy gourmet Bechamel pasta made with butter, fresh milk, roasted garlic, black pepper, and golden sweet corn.",
+      "price": 80,
+      "originalPrice": 99,
+      "category": "Pasta & Italian",
+      "image": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?auto=format&fit=crop&w=600&q=80",
+      "isAvailable": true,
+      "isVeg": true,
+      "preparationTimeMinutes": 18,
+      "sellerName": "Kashi Fast Food & Cafe",
+      "sellerLocation": "Station Road, Phulpur",
+      "rating": 4.9,
+      "reviewCount": 114,
+      "tags": [
+        "Chef Special",
+        "Rich & Creamy"
+      ]
+    },
+    {
+      "id": "prod-macaroni-masala",
+      "name": "Masala Macaroni",
+      "description": "Traditional home-style desi macaroni prepared with chopped onions, juicy tomatoes, green chillies, and chatpata garam masala.",
+      "price": 50,
+      "originalPrice": 60,
+      "category": "Desi Macaroni",
+      "image": "https://images.unsplash.com/photo-1546549032-9571cd6b27df?auto=format&fit=crop&w=600&q=80",
+      "isAvailable": true,
+      "isVeg": true,
+      "preparationTimeMinutes": 12,
+      "sellerName": "Ganga Maa Mahila Self Help Group",
+      "sellerLocation": "Bithoor Village, Kanpur",
+      "rating": 4.8,
+      "reviewCount": 79,
+      "tags": [
+        "Home Style",
+        "Women Entrepreneur"
+      ]
+    },
+    {
+      "id": "prod-macaroni-chatpata",
+      "name": "Chatpata Macaroni",
+      "description": "Extra spicy street-style macaroni sautéed with capsicum, Schezwan chili garlic paste, lemon juice, and crispy fried onions.",
+      "price": 60,
+      "originalPrice": 75,
+      "category": "Desi Macaroni",
+      "image": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?auto=format&fit=crop&w=600&q=80",
+      "isAvailable": true,
+      "isVeg": true,
+      "preparationTimeMinutes": 14,
+      "sellerName": "Asha Devi Rasoi",
+      "sellerLocation": "Rohania Market, Varanasi",
+      "rating": 4.7,
+      "reviewCount": 63,
+      "tags": [
+        "Extra Spicy",
+        "Street Style"
+      ]
+    },
+    {
+      "id": "prod-chai-samosa-combo",
+      "name": "Desi Kulhad Chai & 2 Crispy Samosas",
+      "description": "Steaming ginger cardamom tea served in authentic clay kulhad with 2 fresh golden potato samosas and mint chutney.",
+      "price": 35,
+      "originalPrice": 45,
+      "category": "Tea & Snacks",
+      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=600&q=80",
+      "isAvailable": true,
+      "isVeg": true,
+      "preparationTimeMinutes": 8,
+      "sellerName": "Pandey Ji Tea Stall & Sweets",
+      "sellerLocation": "Main Chowk, Danapur",
+      "rating": 4.9,
+      "reviewCount": 230,
+      "tags": [
+        "All-Time Favorite",
+        "Local Kulhad"
+      ]
+    },
+    {
+      "id": "prod-paneer-pakoda",
+      "name": "Stuffed Paneer Bread Pakoda (2 Pcs)",
+      "description": "Soft malai paneer slice inside potato spiced bread, dipped in gram flour batter and deep fried to golden crispness.",
+      "price": 45,
+      "originalPrice": 55,
+      "category": "Tea & Snacks",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80",
+      "isAvailable": true,
+      "isVeg": true,
+      "preparationTimeMinutes": 10,
+      "sellerName": "Asha Devi Rasoi",
+      "sellerLocation": "Rohania Market, Varanasi",
+      "rating": 4.8,
+      "reviewCount": 52,
+      "tags": [
+        "Fresh Paneer",
+        "Crispy"
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "GSS-2026-4638",
+      "customerName": "Sudhanshu Maggi Test",
+      "customerPhone": "8969922866",
+      "deliveryAddress": "Panchayat Bhawan Main Road, House 7",
+      "location": "Rohania Village, Varanasi",
+      "deliveryInstructions": "Extra spicy Maggi please",
+      "items": [
+        {
+          "productId": "prod-maggi-masala",
+          "name": "Masala Maggi",
+          "price": 35,
+          "quantity": 2,
+          "image": "/images/masala_maggi.jpg"
+        }
+      ],
+      "subtotal": 70,
+      "deliveryFee": 20,
+      "totalAmount": 90,
+      "status": "New",
+      "createdAt": "2026-10-30T12:50:23.312Z",
+      "updatedAt": "2026-10-30T12:50:23.312Z",
+      "statusHistory": [
+        {
+          "status": "New",
+          "timestamp": "2026-10-30T12:50:23.312Z",
+          "note": "Order successfully placed by customer on GS Setu"
+        }
+      ]
+    },
+    {
+      "id": "GSS-2026-1500",
+      "customerName": "Anand Verma",
+      "customerPhone": "8969922866",
+      "deliveryAddress": "Near Post Office, Station Road",
+      "location": "Rohania Village, Varanasi",
+      "deliveryInstructions": "Call on arrival",
+      "items": [
+        {
+          "productId": "prod-maggi-masala",
+          "name": "Masala Maggi",
+          "price": 40,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "productId": "prod-pasta-red-sauce",
+          "name": "Red Sauce Pasta",
+          "price": 60,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1621996346565-e3d5d6281724?auto=format&fit=crop&w=600&q=80"
+        }
+      ],
+      "subtotal": 100,
+      "deliveryFee": 20,
+      "totalAmount": 120,
+      "status": "Accepted",
+      "createdAt": "2026-10-27T09:21:03.892Z",
+      "updatedAt": "2026-10-27T09:21:20.893Z",
+      "statusHistory": [
+        {
+          "status": "New",
+          "timestamp": "2026-10-27T09:21:03.892Z",
+          "note": "Order successfully placed by customer on GS Setu"
+        },
+        {
+          "status": "Accepted",
+          "timestamp": "2026-10-27T09:21:20.893Z",
+          "note": "Status updated to Accepted by GS Setu Admin"
+        }
+      ]
+    },
+    {
+      "id": "GSS-2026-7091",
+      "customerName": "Hackathon Test Customer",
+      "customerPhone": "8969922866",
+      "deliveryAddress": "Panchayat Bhawan Main Gate, House 12",
+      "location": "Rohania Village, Varanasi",
+      "deliveryInstructions": "Leave at doorstep",
+      "items": [
+        {
+          "productId": "prod-maggi-cheese",
+          "name": "Cheese Maggi",
+          "price": 60,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "productId": "prod-macaroni-chatpata",
+          "name": "Chatpata Macaroni",
+          "price": 60,
+          "quantity": 2,
+          "image": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?auto=format&fit=crop&w=600&q=80"
+        }
+      ],
+      "subtotal": 180,
+      "deliveryFee": 0,
+      "totalAmount": 180,
+      "status": "New",
+      "createdAt": "2026-10-27T09:05:19.605Z",
+      "updatedAt": "2026-10-27T09:05:19.605Z",
+      "statusHistory": [
+        {
+          "status": "New",
+          "timestamp": "2026-10-27T09:05:19.605Z",
+          "note": "Order successfully placed by customer on GS Setu"
+        }
+      ]
+    },
+    {
+      "id": "GSS-2026-8439",
+      "customerName": "Sudhanshu Pandey",
+      "customerPhone": "9838012345",
+      "deliveryAddress": "Near Village Panchayat Bhawan, Main Road",
+      "location": "Rohania Village, Varanasi",
+      "deliveryInstructions": "Please deliver piping hot",
+      "items": [
+        {
+          "productId": "prod-maggi-masala",
+          "name": "Masala Maggi",
+          "price": 40,
+          "quantity": 2,
+          "image": "https://images.unsplash.com/photo-1612927601601-6638404737ce?auto=format&fit=crop&w=600&q=80"
+        },
+        {
+          "productId": "prod-pasta-white-sauce",
+          "name": "White Sauce Pasta",
+          "price": 80,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1645112411341-6c4fd023714a?auto=format&fit=crop&w=600&q=80"
+        }
+      ],
+      "subtotal": 160,
+      "deliveryFee": 0,
+      "totalAmount": 160,
+      "status": "Accepted",
+      "createdAt": "2026-10-27T07:25:17.148Z",
+      "updatedAt": "2026-10-27T07:25:29.188Z",
+      "statusHistory": [
+        {
+          "status": "New",
+          "timestamp": "2026-10-27T07:25:17.148Z",
+          "note": "Order successfully placed by customer on GS Setu"
+        },
+        {
+          "status": "Accepted",
+          "timestamp": "2026-10-27T07:25:29.188Z",
+          "note": "Status updated to Accepted by GS Setu Admin"
+        }
+      ]
+    }
+  ],
+  "applications": [],
+  "emailLogs": [
+    {
+      "id": "email-1793364624774",
+      "orderId": "GSS-2026-4638",
+      "recipient": "pandeysudhanshu413@gmail.com",
+      "subject": "[GS Setu New Order] #GSS-2026-4638 - ₹90 from Sudhanshu Maggi Test",
+      "status": "Failed",
+      "timestamp": "2026-10-30T12:50:24.774Z",
+      "details": "SMTP error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3ae6e8fba61sm8493501a91.6 - gsmtp"
+    },
+    {
+      "id": "email-1793092865268",
+      "orderId": "GSS-2026-1500",
+      "recipient": "pandeysudhanshu413@gmail.com",
+      "subject": "[GS Setu New Order] #GSS-2026-1500 - ₹120 from Anand Verma",
+      "status": "Failed",
+      "timestamp": "2026-10-27T09:21:05.268Z",
+      "details": "SMTP error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8a368d85e5csm2229764b3a.3 - gsmtp"
+    },
+    {
+      "id": "email-1793091921008",
+      "orderId": "GSS-2026-7091",
+      "recipient": "pandeysudhanshu413@gmail.com",
+      "subject": "[GS Setu New Order] #GSS-2026-7091 - ₹180 from Hackathon Test Customer",
+      "status": "Failed",
+      "timestamp": "2026-10-27T09:05:21.008Z",
+      "details": "SMTP error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3adebafacd4sm6287970a91.2 - gsmtp"
+    },
+    {
+      "id": "email-1793085917150",
+      "orderId": "GSS-2026-8439",
+      "recipient": "pandeysudhanshu413@gmail.com",
+      "subject": "[GS Setu New Order] #GSS-2026-8439 - ₹160 from Sudhanshu Pandey",
+      "status": "Logged",
+      "timestamp": "2026-10-27T07:25:17.150Z",
+      "details": "Queued and formatted for pandeysudhanshu413@gmail.com. Ready for SMTP delivery (Set GMAIL_USER and GMAIL_APP_PASSWORD in env to transmit live)."
+    }
+  ]
+}

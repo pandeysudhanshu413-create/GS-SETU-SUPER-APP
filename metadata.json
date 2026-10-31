@@ -1,0 +1,8 @@
+{
+  "name": "GS Setu - Multi-Service Local Super App",
+  "description": "Connecting local needs with local opportunities across villages, towns, and cities in India. Order fresh local food, discover everyday services, and empower local businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
